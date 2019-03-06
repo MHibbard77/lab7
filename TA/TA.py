@@ -10,5 +10,5 @@ class TA(Person):
         self.courses = []
 
     def __view_TA_assignments__(self, assignments):
-
+        return assignments
 
